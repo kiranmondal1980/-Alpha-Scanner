@@ -1,7 +1,6 @@
-requirements.txt — Alpha-Scanner (Signal & Research Hub)
-============================================================
-NOTE: Intentionally excludes SmartApi / pyotp / broker SDKs.
-This module never logs in to Angel One and never places orders.
+# Alpha-Scanner (Signal & Research Hub) — requirements.txt
+# NOTE: Intentionally excludes SmartApi / pyotp / broker SDKs.
+# This module never logs in to Angel One and never places orders.
 
 streamlit==1.38.0
 pandas==2.2.2
